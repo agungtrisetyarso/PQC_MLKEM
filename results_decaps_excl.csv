@@ -1,0 +1,5 @@
+target,N,len,traces,window,max_t1,n_t1,max_t2,n_t2,pairs,max_tb,n_tb,null,excluded,excl_max_t1,excl_n_t1,excl_max_t2
+decaps,2,806272,20000,-1,5.07,5,4.81,6,0,0.00,0,0,excluded=2135,excl_max_t1=326.45,excl_n_t1=116,excl_max_t2=65.07
+decaps,2,806272,20000,-1,5.69,5,5.06,5,0,0.00,0,1,excluded=2135,excl_max_t1=4.33,excl_n_t1=0,excl_max_t2=4.12
+decaps,3,2222131,20000,-1,4.94,26,4.87,18,0,0.00,0,0,excluded=5882,excl_max_t1=325.55,excl_n_t1=116,excl_max_t2=65.25
+decaps,3,2222131,20000,-1,5.05,23,5.68,14,0,0.00,0,1,excluded=5882,excl_max_t1=3.53,excl_n_t1=0,excl_max_t2=3.57
